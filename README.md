@@ -1,6 +1,6 @@
 # Greetings
 
-Greetings perspective coworker! We're going to try a little exercise so we can try to work through a problem together.
+Greetings prospective coworker! We're going to try a little exercise so we can try to work through a problem together.
 
 As a person who is not greeted frequently enough I need a service I can request greetings from at will. I've created a webservice to do this, but I don't know what to do now, and I'd like your help. 
 
