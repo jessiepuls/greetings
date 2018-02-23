@@ -6,9 +6,9 @@ As a person who is not greeted frequently enough I need a service I can request 
 
 My requirements are: 
 
-2. This should be on the internet. It's important to me that I can be greeted from anywhere. If my battery dies I might need to use a friend's internet connected device be greeted, so it can't be something I need to use this laptop with it's paultry 5 hour battery life to see.
+1. This should be on the internet. It's important to me that I can be greeted from anywhere. If my battery dies I might need to use a friend's internet connected device be greeted, so it can't be something I need to use this laptop with it's paultry 5 hour battery life to see.
 
-3. I know how to write code, but that's where it stops. I hope to be able to update the code when a greeting becomes boring, and I need more enthusiastic greetings. When I do this it would be great if those changes magically appear on the internet.
+2. I know how to write code, but that's where it stops. I hope to be able to update the code when a greeting becomes boring, and I need more enthusiastic greetings. When I do this it would be great if those changes magically appear on the internet.
 
 You get to assume our CI server will run all the time. For the purposes of this exercise it will run on this laptop. 
 
