@@ -1,4 +1,6 @@
-Hello perspective coworker! We're going to try a little exercise so we can try to work through a problem together.
+# Greetings
+
+Greetings perspective coworker! We're going to try a little exercise so we can try to work through a problem together.
 
 As a person who is not greeted frequently enough I need a service I can request greetings from at will. 
 
