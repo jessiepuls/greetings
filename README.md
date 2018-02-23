@@ -20,7 +20,7 @@ docker run -d -p 9080:8080 -v `pwd`/jenkins_home:/var/jenkins_home  jenkins/jenk
 
 Once it starts you should be able to access this server at http://localhost:9080/
 
-Things I'd like you to help me decide:
+## Things I'd like you to help me decide:
 
 1. This is bound to be a very popular servive. For our initial launch we can probably survive with a simple setup, but how will I guarantee it's reliability as popularity mounts? 
 
