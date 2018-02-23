@@ -22,7 +22,7 @@ Once it starts you should be able to access this server at http://localhost:9080
 
 ## Things I'd like you to help me decide:
 
-1. This is bound to be a very popular servive. For our initial launch we can probably survive with a simple setup, but how will I guarantee it's reliability as popularity mounts? 
+1. This is bound to be a very popular service. For our initial launch we can probably survive with a simple setup, but how will I guarantee it's reliability as popularity mounts? 
 
 2. When providing my greeting service to the internet at large I'm going to need to be able to ensure we can make frequent updates without incurring downtime. How do you think I should do that?
 
