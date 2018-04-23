@@ -3,12 +3,12 @@
   <fullName>admin</fullName>
   <properties>
     <jenkins.security.ApiTokenProperty>
-      <apiToken>{AQAAABAAAAAwUZEnBWE/RcciaallTOX3wEW8cp2gdEjBGQkxsSNUnju2Cds/jvL36ZJYrPo/+DDLkIG9bX3yHQzFr//MH8kqVw==}</apiToken>
+      <apiToken>{AQAAABAAAAAwRZnvCdUyEweAmpXsUAQ1KWglj1M2ni5qVpff0oOFVahpRUyx5raB9m0zCMyDgljql1SoWtq7/yySOh+Cy3okGw==}</apiToken>
     </jenkins.security.ApiTokenProperty>
     <com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty plugin="credentials@2.1.16">
       <domainCredentialsMap class="hudson.util.CopyOnWriteMap$Hash"/>
     </com.cloudbees.plugins.credentials.UserCredentialsProvider_-UserCredentialsProperty>
-    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.61">
+    <hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty plugin="email-ext@2.62">
       <triggers/>
     </hudson.plugins.emailext.watching.EmailExtWatchAction_-UserProperty>
     <hudson.model.MyViewsProperty>
@@ -32,10 +32,10 @@
       <insensitiveSearch>true</insensitiveSearch>
     </hudson.search.UserSearchProperty>
     <hudson.security.HudsonPrivateSecurityRealm_-Details>
-      <passwordHash>#jbcrypt:$2a$10$B5wXNCw2vCQ5aMBSQQ0VrOMDB1YgTkpJeMil4Az6.qOMdqAF2wcT2</passwordHash>
+      <passwordHash>#jbcrypt:$2a$10$S01BiBiVouCeoV8MfTz/1uXnpvirNcJpUPJ/oTdnAH9/k80tzs3Hy</passwordHash>
     </hudson.security.HudsonPrivateSecurityRealm_-Details>
-    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.20">
-      <emailAddress>admin@admin.com</emailAddress>
+    <hudson.tasks.Mailer_-UserProperty plugin="mailer@1.21">
+      <emailAddress>jessie.puls@dhigroupinc.com</emailAddress>
     </hudson.tasks.Mailer_-UserProperty>
   </properties>
 </user>
